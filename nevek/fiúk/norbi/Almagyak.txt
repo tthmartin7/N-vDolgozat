@@ -1,0 +1,20 @@
+DOS-GYAK
+                             10. feladatsor*
+Irj batch programot, amely
+
+1. megjelen¡ti a k‚perny”n az F: meghajt¢ valamennyi az els” 
+   param‚ter‚ben megadott f jlj t!
+
+2. a h¢nap sorsz m t lecser‚li a nev‚re ! 
+
+3. amely v‚gtelen ciklusba kerl !
+
+4. ki¡rja egy adott f jl tartalm t ha az l‚tezik, egy‚bk‚nt l‚trehozza
+   a DOS EDIT seg¡ts‚g‚vel !
+
+5. a k‚perny”re kirajzol egy h romsz”get csillagokb¢l
+
+6. elragozza a K™R ig‚t: ‚nK™Rte, teK™Rte, ”... ciklussal !!!
+
+7. ki¡rja a k”vetkez‹ int‚zm‚ny telefonsz m t: APEH, OTP, JµG stb.,
+   a CHOICE parancs seg¡ts‚g‚vel (DOS 6.22)

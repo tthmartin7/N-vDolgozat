@@ -1,0 +1,19 @@
+DOS-GYAK
+                             4. feladatsor
+
+1. Hozd l‚tre a lemezeden az OKOS.TXT ‚s SZP.TXT f jlokat a k”vetkez”
+   tartalommal :  OKOS VAGYOK !  ill. SZP VAGYOK !
+
+2. Ellen”rizd,  hogy a l‚trehozott f jlok hossza azonos-e, majd irasd
+   ki a k‚perny”re a tartalmukat !
+
+3. Hasonl¡ttasd ”ssze a g‚ppel a k‚t f jl tartalm t !
+   Elemezd a ki¡rt param‚terek jelent‚s‚t !
+
+4. Nevezd  t k‚t f jlt £gy, hogy a "SZP VAGYOK !" az OKOS.TXT, az
+   "OKOS VAGYOK !" a SZP.TXT tartalma legyen !
+
+5. T”r”ld le a k‚t f jlt  egyetlen utas¡t ssal !
+
+6. Mire utal(hat)nak a k”vetkez” kiterjeszt‚sek: TXT, PAS, EXE, PIC,
+   COM, BAT, BAS, C, PRN, DOC, GIF, XLS, DBF ?
